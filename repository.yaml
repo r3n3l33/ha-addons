@@ -1,3 +1,6 @@
-name: r3n3l33 Home Assistant Add-ons
-url: https://github.com/r3n3l33/ha-addons/
-maintainer: r3n3l33
+{
+  "name": "r3n3l33 Home Assistant Add-ons",
+  "url": "https://github.com/r3n3l33/ha-addons",
+  "maintainer": "r3n3l33"
+}
+
